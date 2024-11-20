@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Kurtis24
+- 👋 Hi, I’m Kurtis!
 - 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning ML
-- 📫 Reach Me: Kurtislin24@gmail.com
+- 🌱 I’m currently learning ML, and SQL
+- 📫 Reach Me: jh7lin@uwaterloo.ca
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play ultimate!
 

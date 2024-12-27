@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kurtis!
 - 👀 I’m interested in full-stack development
-- 🌱 I’m currently learning ML, and SQL
+- 🌱 I’m currently learning ML
 - 📫 Reach Me: jh7lin@uwaterloo.ca
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play ultimate!

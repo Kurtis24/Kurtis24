@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi, I'm Kurtis!<br><br>:technologist:	Interested in software Engineering <br/><br>:wrench:	Languages & Tools: Python, HTML, CSS, JavaScript, TypeScript, React, Node.js<br/><br>:student:	Currently studying at the University of Waterloo, Canada<br/><br>:green_apple:	Fun Fact: I’m a serial coffee drinker who believes the best code starts with a well-brewed cup.<br/><br>:thought_balloon:	Currently Learning: Next.js, Docker, and Kubernetes<br/>
+Hi, I'm Kurtis!<br><br>:technologist:	Interested in Software Engineering <br/><br>:wrench:	Languages & Tools: Python, HTML, CSS, JavaScript, TypeScript, React, Node.js<br/><br>:student:	Currently studying at the University of Waterloo, Canada<br/><br>:green_apple:	Fun Fact: I’m a serial coffee drinker who believes the best code starts with a well-brewed cup.<br/><br>:thought_balloon:	Currently Learning: Next.js, Docker, and Kubernetes<br/>
 
 
 # 💻 Tech Stack
